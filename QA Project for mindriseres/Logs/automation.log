@@ -1,0 +1,328 @@
+2025-04-17 19:48:09,534 - root - INFO - ***** Test001Login *****
+2025-04-17 19:48:09,534 - root - INFO - ***** HomePage Title Testing *****
+2025-04-17 19:48:13,162 - root - ERROR - **** Homepage test failed. Screenshot saved at .//Screenshots/test_homepage_title.png ****
+2025-04-17 19:48:20,345 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018FFF58AB50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3dad195b-8bec-45d3-8ddf-ad78cf583e8b
+2025-04-17 19:48:24,455 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018FFF58A8B0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3dad195b-8bec-45d3-8ddf-ad78cf583e8b
+2025-04-17 19:48:28,574 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000018FFF58A640>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/3dad195b-8bec-45d3-8ddf-ad78cf583e8b
+2025-04-20 21:30:03,623 : INFO : ====== WebDriver manager ======
+2025-04-20 21:30:04,353 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:30:04,903 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:30:05,396 : INFO : There is no [win64] chromedriver "135.0.7049.95" for browser google-chrome "135.0.7049" in cache
+2025-04-20 21:30:05,396 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:30:06,623 : INFO : WebDriver version 135.0.7049.95 selected
+2025-04-20 21:30:06,623 : INFO : Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-20 21:30:06,623 : INFO : About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/135.0.7049.95/win32/chromedriver-win32.zip
+2025-04-20 21:30:06,963 : INFO : Driver downloading response is 200
+2025-04-20 21:30:07,388 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:30:08,944 : INFO : Driver has been saved in cache [C:\Users\bikes\.wdm\drivers\chromedriver\win64\135.0.7049.95]
+2025-04-20 21:30:10,383 : INFO : ***** Test: Homepage Title *****
+2025-04-20 21:30:14,037 : INFO : ***** Title Test Passed *****
+2025-04-20 21:30:16,195 : INFO : ====== WebDriver manager ======
+2025-04-20 21:30:17,408 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:30:17,927 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:30:18,427 : INFO : Driver [C:\Users\bikes\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-20 21:30:19,483 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-20 21:30:59,623 : INFO : ====== WebDriver manager ======
+2025-04-20 21:31:00,272 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:31:00,793 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:31:01,307 : INFO : Driver [C:\Users\bikes\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-20 21:31:02,309 : INFO : ***** Test: Homepage Title *****
+2025-04-20 21:31:04,573 : INFO : ***** Title Test Passed *****
+2025-04-20 21:31:06,706 : INFO : ====== WebDriver manager ======
+2025-04-20 21:31:07,333 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:31:07,833 : INFO : Get LATEST chromedriver version for google-chrome
+2025-04-20 21:31:08,335 : INFO : Driver [C:\Users\bikes\.wdm\drivers\chromedriver\win64\135.0.7049.95\chromedriver-win32/chromedriver.exe] found in cache
+2025-04-20 21:31:09,453 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-20 21:32:56,931 : INFO : ***** Test: Homepage Title *****
+2025-04-20 21:33:00,377 : INFO : ***** Title Test Passed *****
+2025-04-20 21:33:03,886 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-20 21:33:49,457 : INFO : ***** Test: Homepage Title *****
+2025-04-20 21:33:52,335 : INFO : ***** Title Test Passed *****
+2025-04-20 21:34:00,802 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-21 18:49:17,862 : INFO : ***** Test: Homepage Title *****
+2025-04-21 18:49:21,037 : INFO : ***** Title Test Passed *****
+2025-04-21 18:49:29,507 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-21 19:14:11,304 : INFO : ***** Test: Homepage Title *****
+2025-04-21 19:14:14,335 : INFO : ***** Title Test Passed *****
+2025-04-21 19:14:22,363 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 09:33:33,163 : INFO : ***** Test: Homepage Title *****
+2025-04-22 09:33:34,552 : INFO : ***** Title Test Passed *****
+2025-04-22 09:33:42,753 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 09:35:07,325 : INFO : ***** Test: Homepage Title *****
+2025-04-22 09:35:10,601 : INFO : ***** Title Test Passed *****
+2025-04-22 09:35:18,631 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 09:36:19,851 : INFO : ***** Test: Homepage Title *****
+2025-04-22 09:36:22,642 : INFO : Page title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 09:36:22,642 : INFO : ***** Title Test Passed *****
+2025-04-22 09:36:30,629 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 09:41:16,397 : INFO : ***** Test: Homepage Title *****
+2025-04-22 09:41:19,535 : INFO : Page title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 09:41:19,536 : INFO : ***** Title Test Passed *****
+2025-04-22 09:41:27,761 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 09:43:07,404 : INFO : ***** Test: Homepage Title *****
+2025-04-22 09:43:10,366 : INFO : Page title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 09:43:10,366 : INFO : ***** Title Test Passed *****
+2025-04-22 09:43:18,535 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 09:57:00,065 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 10:00:05,771 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 10:20:35,928 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 10:45:28,492 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 10:45:31,575 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 10:45:39,865 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 10:48:35,579 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 10:48:39,111 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 10:48:47,564 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 10:48:53,579 : INFO : Services Page Heading: Services
+2025-04-22 11:11:44,551 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 11:11:48,383 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 11:11:56,672 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:15:11,911 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 11:15:15,474 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 11:15:23,686 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:16:01,162 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:17:11,127 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 11:17:14,463 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 11:17:22,680 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:17:28,837 : INFO : Services Page Heading: Services
+2025-04-22 11:20:33,157 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 11:20:36,575 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 11:20:45,006 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:20:50,964 : INFO : Services Page Heading: Services
+2025-04-22 11:20:59,219 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:21:05,399 : INFO : Services Page Heading: Our Portfolio
+2025-04-22 11:27:35,945 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 11:27:39,511 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 11:27:47,992 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:27:53,896 : INFO : Services Page Heading: Services
+2025-04-22 11:28:02,154 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:28:08,239 : INFO : Services Page Heading: Our Portfolio
+2025-04-22 11:28:54,653 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 11:29:02,831 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 11:29:16,152 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:29:22,334 : INFO : Services Page Heading: Services
+2025-04-22 11:29:30,660 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 11:29:36,925 : INFO : Services Page Heading: Our Portfolio
+2025-04-22 18:04:13,617 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 18:04:25,881 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 18:04:31,535 : INFO : Services Page Heading: Services
+2025-04-22 18:04:40,276 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 18:04:45,917 : INFO : Services Page Heading: Our Portfolio
+2025-04-22 18:54:52,884 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 18:54:58,242 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 18:55:07,569 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 18:55:12,758 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:03:45,105 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 19:03:48,476 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 19:03:57,672 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:04:14,526 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 19:04:17,426 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 19:04:25,960 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:08:45,183 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 19:08:48,204 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 19:08:57,104 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:09:03,244 : INFO : Services Page Heading: Services
+2025-04-22 19:09:11,913 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 19:09:15,048 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 19:09:23,572 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:09:30,105 : INFO : Services Page Heading: Services
+2025-04-22 19:10:35,456 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 19:10:39,147 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 19:10:47,761 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:10:54,100 : INFO : Services Page Heading: Services
+2025-04-22 19:11:02,640 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 19:11:06,191 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 19:11:15,153 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 19:11:21,362 : INFO : Services Page Heading: Services
+2025-04-22 20:33:06,383 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 20:33:09,707 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 20:33:18,160 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:33:27,145 : INFO : Services Page Heading: Services
+2025-04-22 20:33:35,399 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 20:33:40,503 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 20:33:49,112 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:33:58,402 : INFO : Services Page Heading: Services
+2025-04-22 20:51:02,020 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 20:51:05,060 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 20:51:13,328 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:51:19,763 : INFO : Services Page Heading: Services
+2025-04-22 20:51:27,952 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 20:51:33,693 : INFO : Services Page Heading: Services
+2025-04-22 20:51:46,063 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:51:51,996 : INFO : Services Page Heading: Services
+2025-04-22 20:52:00,326 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 20:52:06,341 : INFO : Services Page Heading: Services
+2025-04-22 20:52:25,361 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 20:52:28,339 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 20:52:36,868 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:53:04,377 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 20:53:10,127 : INFO : Services Page Heading: Services
+2025-04-22 20:53:37,589 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 20:54:06,775 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 20:54:09,466 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 20:54:17,828 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:54:24,212 : INFO : Services Page Heading: Services
+2025-04-22 20:54:32,368 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 20:54:38,632 : INFO : Services Page Heading: Services
+2025-04-22 20:54:51,037 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:54:57,210 : INFO : Services Page Heading: Services
+2025-04-22 20:56:59,906 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 20:57:03,061 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 20:57:11,408 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:57:17,236 : INFO : Services Page Heading: Services
+2025-04-22 20:57:25,409 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 20:58:18,382 : INFO : Services Page Heading: About us
+2025-04-22 20:58:26,849 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:58:33,158 : INFO : Services Page Heading: Career
+2025-04-22 20:58:41,460 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 20:59:12,051 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 20:59:26,451 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 20:59:40,704 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:00:15,149 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:00:23,475 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:00:29,522 : INFO : Services Page Heading: Services
+2025-04-22 21:00:37,886 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:00:51,333 : INFO : Services Page Heading: About us
+2025-04-22 21:00:59,685 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:01:10,505 : INFO : Services Page Heading: Career
+2025-04-22 21:01:18,742 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:02:03,031 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:02:17,434 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:06:18,572 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:06:21,534 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:06:30,076 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:06:36,218 : INFO : Services Page Heading: Services
+2025-04-22 21:06:44,503 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:06:50,486 : INFO : Services Page Heading: About us
+2025-04-22 21:06:58,680 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:07:04,479 : INFO : Services Page Heading: Career
+2025-04-22 21:07:12,641 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:07:18,834 : INFO : Services Page Heading: Blogs
+2025-04-22 21:07:27,117 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:07:57,547 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:08:11,776 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:08:14,489 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:08:22,774 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:08:29,047 : INFO : Services Page Heading: Services
+2025-04-22 21:08:37,272 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:08:43,288 : INFO : Services Page Heading: About us
+2025-04-22 21:08:51,412 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:08:57,478 : INFO : Services Page Heading: Career
+2025-04-22 21:09:05,629 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:09:11,879 : INFO : Services Page Heading: Blogs
+2025-04-22 21:09:20,228 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:09:46,807 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:13:48,776 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:13:54,478 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:14:02,731 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:14:09,529 : INFO : Services Page Heading: Services
+2025-04-22 21:14:17,705 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:14:24,374 : INFO : Services Page Heading: About us
+2025-04-22 21:14:36,477 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:14:43,116 : INFO : Services Page Heading: Career
+2025-04-22 21:14:51,458 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:14:57,898 : INFO : Services Page Heading: Blogs
+2025-04-22 21:15:06,120 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:15:25,551 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:20:18,760 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:20:21,968 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:20:30,213 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:20:36,386 : INFO : Services Page Heading: Services
+2025-04-22 21:20:44,684 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:20:55,273 : INFO : Services Page Heading: About us
+2025-04-22 21:21:03,550 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:21:09,524 : INFO : Services Page Heading: Career
+2025-04-22 21:21:17,755 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:21:23,876 : INFO : Services Page Heading: Blogs
+2025-04-22 21:21:32,179 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:21:54,668 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:30:36,482 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:30:39,835 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:30:48,123 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:30:54,334 : INFO : Services Page Heading: Services
+2025-04-22 21:31:02,505 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:31:08,631 : INFO : Services Page Heading: About us
+2025-04-22 21:31:16,902 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:31:23,028 : INFO : Services Page Heading: Career
+2025-04-22 21:31:31,193 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:31:37,223 : INFO : Services Page Heading: Blogs
+2025-04-22 21:31:45,503 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:32:20,633 : INFO : ***** Test: Navigation to Portfolio Page *****
+2025-04-22 21:35:55,831 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-22 21:35:58,875 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-22 21:36:07,214 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:36:13,615 : INFO : Services Page Heading: Services
+2025-04-22 21:36:21,842 : INFO : ***** Test: Navigation to About us Page *****
+2025-04-22 21:36:32,136 : INFO : Services Page Heading: About us
+2025-04-22 21:36:40,468 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-22 21:36:46,621 : INFO : Services Page Heading: Career
+2025-04-22 21:36:54,961 : INFO : ***** Test: Navigation to Blogs Page *****
+2025-04-22 21:37:01,300 : INFO : Services Page Heading: Blogs
+2025-04-22 21:37:09,572 : INFO : ***** Test: Navigation to Technology Page *****
+2025-04-22 21:37:15,870 : INFO : Technology Page Heading: Technology
+2025-04-22 21:37:24,171 : INFO : ***** Test: Navigation to Portfolio Page *****
+2025-04-22 21:37:30,211 : INFO : Portfolio Page Heading: Our Portfolio
+2025-04-23 08:23:29,705 : INFO : ***** Test001contact *****
+2025-04-23 08:23:29,705 : INFO : ***** Contact Title Testing *****
+2025-04-23 08:23:31,133 : ERROR : **** Homepage test failed. Screenshot saved at .//Screenshots/test_homepage_title.png ****
+2025-04-23 08:23:56,501 : INFO : ***** Test001Login - Contact Test *****
+2025-04-23 08:26:51,288 : INFO : ***** Test001contact *****
+2025-04-23 08:26:51,288 : INFO : ***** Contact Title Testing *****
+2025-04-23 08:26:52,842 : ERROR : **** Homepage test failed. Screenshot saved at .//Screenshots/test_homepage_title.png ****
+2025-04-23 08:28:35,743 : INFO : ***** Test001contact *****
+2025-04-23 08:28:35,743 : INFO : ***** Contact Title Testing *****
+2025-04-23 08:28:37,039 : ERROR : **** Homepage test failed. Screenshot saved at .//Screenshots/test_homepage_title.png ****
+2025-04-23 08:29:15,606 : INFO : ***** Test001contact *****
+2025-04-23 08:29:15,606 : INFO : ***** Contact Title Testing *****
+2025-04-23 08:29:16,724 : ERROR : **** Homepage test failed. Screenshot saved at .//Screenshots/test_homepage_title.png ****
+2025-04-23 08:29:41,766 : INFO : ***** Test001Login - Contact Test *****
+2025-04-23 08:32:16,514 : INFO : ***** Test001contact *****
+2025-04-23 08:32:16,514 : INFO : ***** Contact Title Testing *****
+2025-04-23 08:32:18,062 : ERROR : **** Homepage test failed. Screenshot saved at .//Screenshots/test_homepage_title.png ****
+2025-04-23 08:32:42,867 : INFO : ***** Test001Login - Contact Test *****
+2025-04-23 08:37:08,551 : INFO : ***** Test001: Contact Page Title Check *****
+2025-04-23 08:37:10,033 : INFO : *** Contact page title verified successfully ***
+2025-04-23 08:37:18,340 : INFO : ***** Test002: Contact Us Form Submission *****
+2025-04-23 08:38:26,958 : INFO : ***** Test002: Contact Us Form Submission *****
+2025-04-23 08:38:38,837 : ERROR : *** Contact test failed: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+. Screenshot saved at .//Screenshots/test_contact_form_submission_error.png ***
+2025-04-23 08:42:43,379 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:46:48,831 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:48:30,812 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:49:18,874 : ERROR : **** Contact test failed: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+. Screenshot saved at .//Screenshots/test_contact_form_failed.png ****
+2025-04-23 08:50:14,874 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:50:42,278 : INFO : ***** Test: Navigation on HomePage *****
+2025-04-23 08:50:43,363 : INFO : Home Page Title: Mindrisers Technology: The Best Tech Company of The Era 2025!
+2025-04-23 08:50:51,641 : INFO : ***** Test: Navigation to Services Page *****
+2025-04-23 08:50:56,508 : INFO : Services Page Heading: Services
+2025-04-23 08:51:11,659 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:51:59,073 : ERROR : **** Contact test failed: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+. Screenshot saved at .//Screenshots/test_contact_form_failed.png ****
+2025-04-23 08:52:45,006 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:53:22,179 : ERROR : **** Contact test failed: Message: 
+Stacktrace:
+RemoteError@chrome://remote/content/shared/RemoteError.sys.mjs:8:8
+WebDriverError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:199:5
+NoSuchElementError@chrome://remote/content/shared/webdriver/Errors.sys.mjs:552:5
+dom.find/</<@chrome://remote/content/shared/DOM.sys.mjs:136:16
+. Screenshot saved at .//Screenshots/test_contact_form_failed.png ****
+2025-04-23 08:56:37,151 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 08:56:57,422 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 09:05:32,848 : INFO : ***** Test001Contact - Contact Us Form Test *****
+2025-04-23 09:06:00,007 : INFO : *** Checking if Contact form heading is visible ***
+2025-04-23 09:06:00,020 : INFO : *** Heading found: 'Contact us' ***
